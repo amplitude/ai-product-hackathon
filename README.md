@@ -23,6 +23,8 @@ These products have specific challenges and prizes associated with them.
 
 These products are part of this hackathon and have a representative at the event.
 
+- [Leap AI](other-sponsors/leap-ai/README.md): a single API for everything AI.
+
 ### Other Products
 
 These products are not directly related to the hackathon, but we think you might be interested in using them.
