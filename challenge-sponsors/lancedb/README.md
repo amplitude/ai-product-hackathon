@@ -5,6 +5,10 @@ LanceDB is a state-of-the-art database solution specially designed to manage the
 
 For this hackathon, LanceDB is presenting a challenge that involves its cutting-edge database solutions. This is a unique opportunity to dive into the fascinating world of high-performance databases while honing your AI and machine learning skills.
 
+## Challenge
+
+LanceDB is awarding a $5,000 prize for the project that best uses AI in combination with LanceDB.
+
 ## Resources
 **1. LanceDB Website:** Check out the LanceDB website [here](https://lancedb.com/). It provides a comprehensive overview of their database technology, explaining how it works and its advantages. It's a great starting point to familiarize yourself with the LanceDB platform.
 
