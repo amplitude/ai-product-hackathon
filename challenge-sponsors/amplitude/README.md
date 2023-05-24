@@ -1,6 +1,6 @@
 # [Amplitude](https://amplitude.com/)
 
-Amplitude is a product analytics tool that helps companies understand what their users are doing in order to build better products.
+Amplitude is a product analytics tool that helps companies understand what their users are doing in order to build better products. Companies send first-party user behavior data to Amplitude and then perform a wide variety of analyses within Amplitude in a self-service way. Common use cases include tracking conversion rates of important funnels, measuring the retention of the userbase, and doing anomaly detection on key metrics.
 
 ## Challenge
 
@@ -22,8 +22,11 @@ Full documentation for the SDKs (to send data to Amplitude) and the APIs (to pro
 
 ## Ideas
 
+Here are a few ideas to help you get started on an Amplitude-related hackathon project!
+
 - Use LLMs that understand code to automatically instrument product actions into Amplitude.
 - Come up with a way to instrument AI-powered products, and build interesting charts/dashboards to evaluate the effectiveness of AI in the product.
 - Build a browser extension to automate creating Amplitude charts from other contexts (JIRA, GitHub, etc).
 - Fine tune a chatbot to teach users how to use Amplitude in different situations.
 - Build predictive models for retention, churn, likelihood of purchase, etc on top of a behavioral dataset.
+- Send a public dataset to Amplitude and use existing AI features (e.g. clustering, recommendations, anomaly detection) to discover interesting things.
