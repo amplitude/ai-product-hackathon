@@ -17,7 +17,7 @@ Modal offers inference, batch jobs, task queues, web apps and more. All without 
 ## Getting Started
 
 To learn more about Modal, head over to our [landing page](https://modal.com/).
-And get $500 in credits. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeeq2VIxP6x14dzjMcxzl34I9jGSdtqOKQ95nlrVH288XKU8g/viewform).
+And get $500 in credits. [Sign up](https://modal.com/signup) for an account, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeeq2VIxP6x14dzjMcxzl34I9jGSdtqOKQ95nlrVH288XKU8g/viewform) to claim $500 in Modal credits.
 
 
 ## Example Apps and Repositories
