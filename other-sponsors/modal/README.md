@@ -22,7 +22,7 @@ And get $500 in credits. [Sign up](https://modal.com/signup) for an account, [fi
 
 ## Example Apps and Repositories
 
-Need a little inspiration? Check out these example built using Modal:
+Need a little inspiration? Check out these examples built using Modal:
 
 - [QuillMan](https://modal.com/docs/guide/llm-voice-chat) - LLM voice chat with Whisper, Vicuna LLM and Tortoise
 - [DoppelBot](https://modal.com/docs/guide/slack-finetune) - Fine-tune an LLM to answer slack messages
