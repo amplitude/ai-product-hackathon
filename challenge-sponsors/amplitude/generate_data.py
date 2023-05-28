@@ -4,7 +4,7 @@ from amplitude import Amplitude, BaseEvent
 
 # store your amplitude api key in an environment variable
 # find keys on your project's page (fill in your org-url): https://analytics.amplitude.com/<org-url>/settings/projects
-api_key = os.environ['AMPLITUDE_API_KEY']
+api_key = os.getenv('AMPLITUDE_API_KEY')
 amplitude = Amplitude(api_key)
 
 # customize the events you want to track

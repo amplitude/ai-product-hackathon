@@ -26,4 +26,9 @@ And you can download a single file using:
 aws s3 cp s3://com-amplitude-2023-ai-product-hackathon-public/datasets/amplitunes/168342_2023-05-01_0#0.json.gz .
 ```
 
+Or an entire folder using:
+```
+aws s3 sync s3://com-amplitude-2023-ai-product-hackathon-public/datasets/amplitunes/ amplitunes/
+```
+
 As suggested by the filename, the data is compressed using GZIP and stored as a single JSON object per line (representing one event). See [here](https://www.docs.developers.amplitude.com/analytics/apis/export-api/#response-schema) for documentation on the structure of the events.

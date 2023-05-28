@@ -4,8 +4,8 @@ import requests
 
 # store your amplitude api + secret keys in environment variables
 # find keys on your project's page (fill in your org-url): https://analytics.amplitude.com/<org-url>/settings/projects
-api_key = os.environ['AMPLITUDE_API_KEY']
-secret_key = os.environ['AMPLITUDE_SECRET_KEY']
+api_key = os.getenv('AMPLITUDE_API_KEY')
+secret_key = os.getenv('AMPLITUDE_SECRET_KEY')
 
 # fetch active users over two months
 endpoint = 'https://amplitude.com/api/2/users?start=20230501&end=20230630'

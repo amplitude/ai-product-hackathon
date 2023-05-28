@@ -13,8 +13,8 @@ Here are some steps to get started using Amplitude. They can be done before the 
 1. [Sign up for an Amplitude account](https://analytics.amplitude.com/signup) if you don't have one already.
 1. Follow the onboarding flow for sending data into Amplitude (we recommend the [Python SDK](https://www.docs.developers.amplitude.com/data/sdks/sdk-quickstart/#python)).
 1. Remember to `pip install -r requirements.txt` into your (ideally virtual) environment.
-1. See `generate_data.py` for starter code for sending whatever data you want.
-1. See `rest_api.py` for starter code for querying the [Dashboard REST API](https://www.docs.developers.amplitude.com/analytics/apis/dashboard-rest-api/).
+1. See [`generate_data.py`](generate_data.py) for starter code for sending whatever data you want.
+1. See [`rest_api.py`](rest_api.py) for starter code for querying the [Dashboard REST API](https://www.docs.developers.amplitude.com/analytics/apis/dashboard-rest-api/).
 
 ## Documentation
 
@@ -24,7 +24,7 @@ Full documentation for the SDKs (to send data to Amplitude) and the APIs (to pro
 
 Here are a few ideas to help you get started on an Amplitude-related hackathon project!
 
-- Use LLMs that understand code to automatically instrument product actions into Amplitude.
+- Use a large language model (LLM) that understands code to automatically instrument product actions into Amplitude.
 - Come up with a way to instrument AI-powered products, and build interesting charts/dashboards to evaluate the effectiveness of AI in the product.
 - Build a browser extension to automate creating Amplitude charts from other contexts (JIRA, GitHub, etc).
 - Fine tune a chatbot to teach users how to use Amplitude in different situations.
