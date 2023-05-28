@@ -12,11 +12,11 @@ This repository contains documentation, datasets, and starter code for the hacka
 
 ### Challenge Sponsors
 
-These products have specific challenges and prizes associated with them. Learn more about these products and ideas for projects using them!
+These products have specific challenges and prizes associated with them. Learn more about how to get started with these products and ideas for projects using them!
 
-- [Amplitude](challenge-sponsors/amplitude/README.md): a product analytics tool that helps you understand what users are doing in order to build better products.
-- [New Relic](challenge-sponsors/newrelic/README.md): an analytics platform that specializes in observability in order to troubleshoot and optimize software performance.
-- [LanceDB](challenge-sponsors/lancedb/README.md): a vector database designed for the complex requirements of large-scale AI and machine learning applications.
+- [Amplitude](challenge-sponsors/amplitude/README.md): a product analytics tool that helps you understand what users are doing and build better products.
+- [New Relic](challenge-sponsors/newrelic/README.md): an analytics and observability platform for troubleshooting and optimizing software performance.
+- [LanceDB](challenge-sponsors/lancedb/README.md): a vector database designed for the complex requirements of large-scale AI and ML applications.
 - [Fennel.ai](challenge-sponsors/fennelai/README.md)
 
 ### Other Sponsors
