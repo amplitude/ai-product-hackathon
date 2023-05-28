@@ -2,7 +2,7 @@
 
 First-party user behavior data is really unique and quite hard to come by. Although we can't share the data of real customers for privacy reasons, we've seen enough of it that our demo datasets are fairly representative of real product data.
 
-Here are three demo datasets that we've made available for this hackathon. They all live in a public S3 bucket `com-amplitude-2023-ai-product-hackathon-public` and documentation on the structure of the events can be found [here](https://www.docs.developers.amplitude.com/analytics/apis/export-api/#response-schema).
+Here are three demo datasets that we've made available for this hackathon. They all live in a public S3 bucket `com-amplitude-2023-ai-product-hack-public` and documentation on the structure of the events can be found [here](https://www.docs.developers.amplitude.com/analytics/apis/export-api/#response-schema).
 
 ## Datasets
 
@@ -18,17 +18,17 @@ We recommend using the [AWS CLI](https://aws.amazon.com/cli/) to download the da
 
 For example, you can list the files for the AmpliTunes dataset using:
 ```
-aws s3 ls s3://com-amplitude-2023-ai-product-hackathon-public/datasets/amplitunes/
+aws s3 ls s3://com-amplitude-2023-ai-product-hack-public/datasets/amplitunes/
 ```
 
 And you can download a single file using:
 ```
-aws s3 cp s3://com-amplitude-2023-ai-product-hackathon-public/datasets/amplitunes/168342_2023-05-01_0#0.json.gz .
+aws s3 cp s3://com-amplitude-2023-ai-product-hack-public/datasets/amplitunes/168342_2023-05-01_0#0.json.gz .
 ```
 
 Or an entire folder using:
 ```
-aws s3 sync s3://com-amplitude-2023-ai-product-hackathon-public/datasets/amplitunes/ amplitunes/
+aws s3 sync s3://com-amplitude-2023-ai-product-hack-public/datasets/amplitunes/ amplitunes/
 ```
 
 As suggested by the filename, the data is compressed using GZIP and stored as a single JSON object per line (representing one event). See [here](https://www.docs.developers.amplitude.com/analytics/apis/export-api/#response-schema) for documentation on the structure of the events.
