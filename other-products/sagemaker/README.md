@@ -13,3 +13,4 @@ You can find [SageMaker pricing here](https://aws.amazon.com/sagemaker/pricing/)
 ## Other Resources
 
 - SageMaker integrates easily with [Hugging Face](../huggingface/README.md) models, which you can [learn more about here](https://huggingface.co/docs/sagemaker/inference). This gives you a wide variety of models to deploy at your fingertips!
+- Here is a [blog post on building AI-powered search](https://aws.amazon.com/blogs/database/building-ai-powered-search-in-postgresql-using-amazon-sagemaker-and-pgvector/) that deploys a pre-trained [SentenceTransformer](../sentence-transformers/README.md) model from [Hugging Face](../huggingface/README.md) to SageMaker and then stores the embeddings using [pgvector](https://github.com/pgvector/pgvector).

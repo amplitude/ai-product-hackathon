@@ -17,21 +17,23 @@ These products have specific challenges and prizes associated with them. Learn m
 - [Amplitude](challenge-sponsors/amplitude/README.md): a product analytics tool that helps you understand what users are doing and build better products.
 - [New Relic](challenge-sponsors/newrelic/README.md): an analytics and observability platform for troubleshooting and optimizing software performance.
 - [LanceDB](challenge-sponsors/lancedb/README.md): a vector database designed for the complex requirements of large-scale AI and ML applications.
-- [Fennel.ai](challenge-sponsors/fennelai/README.md)
+- [Fennel.ai](challenge-sponsors/fennelai/README.md): a fully-managed, realtime feature engineering platform for fast moving ML teams.
 
 ### Other Sponsors
 
 These products are part of this hackathon and have a representative at the event. Check them out!
 
 - [Leap AI](other-sponsors/leap-ai/README.md): a single API for everything AI.
+- [Modal](other-sponsors/modal/README.md): end-to-end cloud compute for model inference, batch jobs, task queues, web apps, and more.
 
 ### Other Products
 
 These products are not directly related to the hackathon, but we think you might be interested in using them.
 
+- [SentenceTransformers](other-products/sentence-transformers/README.md): a Python library for state-of-the-art sentence, text, and image embeddings.
 - [OpenAI](other-products/openai/README.md): powerful large language model APIs for chat, completion, and embedding.
 - [AWS SageMaker](other-products/sagemaker/README.md): build, train, and deploy ML models at scale in AWS.
-- [Hugging Face](other-products/huggingface/README.md): a repository of ML models and a platform for training/inference.
+- [Hugging Face](other-products/huggingface/README.md): a repository of ML models, and a platform for training/inference.
 
 ## Datasets
 
