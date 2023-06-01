@@ -8,7 +8,7 @@ This repository contains documentation, datasets, and starter code for the hacka
 
 ## Products
 
-![Hackathon Sponsors](images/hackathon-sponsors.jpeg)
+![Hackathon Sponsors](images/hackathon-sponsors2.jpeg)
 
 ### Challenge Sponsors
 
@@ -17,7 +17,7 @@ These products have specific challenges and prizes associated with them. Learn m
 - [Amplitude](challenge-sponsors/amplitude/README.md): a product analytics tool that helps you understand what users are doing and build better products.
 - [New Relic](challenge-sponsors/newrelic/README.md): an analytics and observability platform for troubleshooting and optimizing software performance.
 - [LanceDB](challenge-sponsors/lancedb/README.md): a vector database designed for the complex requirements of large-scale AI and ML applications.
-- [Amazon Web Services](challenge-sponsors/aws/README.md): AI code generation with CodeWhisperer and LLM foundational models on SageMaker Jumpstart.
+- [AWS](challenge-sponsors/aws/README.md): AI code generation with CodeWhisperer and LLM foundational models on SageMaker Jumpstart.
 - [Fennel.ai](challenge-sponsors/fennelai/README.md): a fully-managed, realtime feature engineering platform for fast moving ML teams.
 
 ### Other Sponsors
