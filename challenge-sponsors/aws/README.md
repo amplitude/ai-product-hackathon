@@ -1,6 +1,12 @@
-# [AWS SageMaker](https://aws.amazon.com/sagemaker/)
+# AWS [SageMaker](https://aws.amazon.com/sagemaker/) and [CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 
 SageMaker is a powerful tool for building, training, and deploying ML models. You can deploy a bunch of existing models from the AWS Marketplace for things like object detection, text summarization, fraud detection, etc. You can also spin up infrastructure to train your own models or create an inference endpoint from a model that you've trained.
+
+CodeWhisperer is trained on billions of lines of code and can generate code suggestions ranging from snippets to full functions in real time based on your comments and existing code. Bypass time-consuming coding tasks and accelerate building with unfamiliar APIs.
+
+## Challenge
+
+AWS is awarding a $5,000 prize for the project that best uses SageMaker and/or CodeWhisperer.
 
 ## Getting Started
 
