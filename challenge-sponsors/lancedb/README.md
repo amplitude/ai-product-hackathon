@@ -17,3 +17,5 @@ LanceDB is awarding a $5,000 prize for the project that best uses AI in combinat
 **2. LanceDB Website:** Check out the LanceDB website [here](https://lancedb.com/). It provides a comprehensive overview of their database technology, explaining how it works and its advantages. It's a great starting point to familiarize yourself with the LanceDB platform.
 
 **4. Announcing LanceDB:** Get background information, insights into LanceDB's functionality and features, and its role in the AI and machine learning landscape. Find the blog post [here](https://blog.lancedb.com/announcing-lancedb-5cb0deaa46ee).
+
+The LanceDB team will be on hand to answer any questions if you get stuck and you can join the LanceDB discord [here](https://discord.com/invite/zMM32dvNtd).
