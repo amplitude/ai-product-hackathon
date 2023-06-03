@@ -26,6 +26,7 @@ These products are part of this hackathon and have a representative at the event
 
 - [Leap AI](other-sponsors/leap-ai/README.md): a single API for everything AI.
 - [Modal](other-sponsors/modal/README.md): end-to-end cloud compute for model inference, batch jobs, task queues, web apps, and more.
+- [Etnertwine](other-sponsors/entertwine/README.md): AI recommendation engine. Users can recommend/match/filter data in seconds with no current limit to the number of data points.
 
 ### Other Products
 
